@@ -10,7 +10,7 @@
 
 <p align="left"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-	<img src="https://github-profile-trophy.vercel.app/?username=ravexina&theme=chalk&margin-w=15&row=2&column=4" alt="ravexina" />
+	<img src="https://github-profile-trophy.vercel.app/?username=ravexina&theme=tokyonight&margin-w=15&row=2&column=4" alt="ravexina" />
 	</a> 
 </p>
 
