@@ -2,6 +2,10 @@
 
 - 📛 My name is Milad.
 - 🌱 I’m a GNU/Linux guru and free software enthusiastic.
+- 🎓 I have studied software engineering and artificial intelligence.
+  - My fields of interest in AI are:
+    - 📊 Big Data
+    - 🧬 Evolutionary and swarm intelligence algorithms  
 - 📫 How to reach me: Same Ūsĕrņame at Ǧmāil.
 
 Where to find me:
