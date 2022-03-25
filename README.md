@@ -136,3 +136,5 @@ Where to find me:
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravexina&label=Profile%20views&color=FF0040&style=flat" alt="ravexina" /> </p>
+
+🧠 Knowledge is Power
