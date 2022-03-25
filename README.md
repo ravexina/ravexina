@@ -49,8 +49,6 @@
     <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx"></code>
 </a>
 
-<br>
-
 <a href="https://www.python.org/" target="_blank">
     <code><img height="30" src="https://www.python.org/static/apple-touch-icon-precomposed.png"></code>
 </a>
@@ -96,8 +94,6 @@
 </a>
 
 <!-- Databases --> 
-
-<br>
 
 <a href="https://www.mariadb.org/" target="_blank">
     <code><img height="30" src="https://mariadb.org/wp-content/themes/twentynineteen-child/icons/logo_seal.svg" alt="mariadb"></code>
