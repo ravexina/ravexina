@@ -1,3 +1,17 @@
+### Hi there,
+
+- 📛 My name is Milad.
+- 🌱 I’m a GNU/Linux guru and free software enthusiastic.
+- 📫 How to reach me: Same Ūsĕrņame at Ǧmāil.
+
+Where to find me:
+
+- [AskUbuntu](https://askubuntu.com/users/264781/ravexina)
+- [Ubuntu Wiki](https://wiki.ubuntu.com/ravexina)
+- [StackExchange](https://stackexchange.com/users/4177764/ravexina)
+- My Blog (Persian): [TuxGeek](https://tuxgeek.ir/)
+- My Website (Nothing interesting there yet): [ravexina.ir](https://ravexina.ir)
+
 ## :zap: Github Stats
 
 <div>
@@ -114,7 +128,6 @@
 <a href="https://redis.io/" target="_blank">
     <code><img height="30" src="https://redis.io/favicons/apple-touch-icon.png" alt="Redis"></code>
 </a>
-
 
 ---
 
