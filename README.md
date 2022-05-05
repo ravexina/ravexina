@@ -59,6 +59,12 @@ Where to find me:
     </code>
 </a>
 
+<a href="https://airflow.apache.org/" target="_blank">
+    <code>
+	<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1200px-AirflowLogo.png" alt="Apache Airflow">
+    </code>
+</a>
+
 <a href="https://www.ansible.com/" target="_blank">
     <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Nginx"></code>
 </a>
