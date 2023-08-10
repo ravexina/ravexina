@@ -36,73 +36,102 @@ Where to find me:
 
 ## :wrench: Some of my favorite Languages and Tools
 
+<a href="https://www.vim.org/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="VIM"></code>
+</a>
 
 <a href="https://www.linux.org/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux"></code>
 </a>
 
-<a href="https://www.debian.org" target="_blank">
-    <code><img height="30" src="https://www.debian.org/Pics/debian-logo-1024x576.png" alt="Debian"></code>
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash"></code>
 </a>
 
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="bash"></code>
+<a href="https://www.debian.org" target="_blank">
+    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/debian/debian-original.svg" alt="Debian"></code>
 </a>
+
+<a href="https://www.ubuntu.com" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu"></code>
+</a>
+
+<a href="https://www.fedoraproject.org/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" alt="Fedora"></code>
+</a>
+
+<a href="https://www.centos.org/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" alt="CentOS"></code>
+</a>
+
+
 
 <a href="https://www.docker.com/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker"></code>
 </a>
 
 <a href="https://kubernetes.io/" target="_blank">
-    <code>
-	<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes">
-    </code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes"></code>
 </a>
 
 <a href="https://airflow.apache.org/" target="_blank">
-    <code>
-	<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1200px-AirflowLogo.png" alt="Apache Airflow">
-    </code>
+    <code><img height="30" src="https://airflow.apache.org/favicons/apple-icon-180x180.png" alt="Apache Airflow"></code>
 </a>
 
 <a href="https://www.ansible.com/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Nginx"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="Ansible"></code>
 </a>
 
 <a href="https://www.nginx.com/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx"></code>
+</a>
+
+<a href="https://httpd.apache.org/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" alt="Apache HTTPD"></code>
 </a>
 
 <a href="https://www.python.org/" target="_blank">
-    <code><img height="30" src="https://www.python.org/static/apple-touch-icon-precomposed.png"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python"></code>
 </a>
     
 <a href="https://djangoproject.com" target="_blank">
-    <code><img height="30" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="djangoproject"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django"></code>
 </a>
 
 <a href="https://flask.palletsprojects.com/" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask"></code>
+</a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI"></code>
 </a>
 
 <a href="https://scikit-learn.org/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"></code>
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn"></code>
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="GIT"></code>
+</a>
+
+<a href="https://gitlab.com/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="Gitlab"></code>
 </a>
 
 <a href="https://www.php.net" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP"></code>
 </a>
 
 <a href="https://laravel.com/" target="_blank">
-    <code><img height="30" src="https://laravel.com/img/logomark.min.svg" alt="Laravel"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel"></code>
+</a>
+
+<a href="https://codeigniter.com/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" alt="Codeigniter"></code>
 </a>
 
 <a href="https://heroku.com" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku"></code>
 </a>
 
 <a href="https://jekyllrb.com/" target="_blank">
@@ -114,7 +143,7 @@ Where to find me:
 </a>
 
 <a href="https://getbootstrap.com" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="boostrap"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="boostrap"></code>
 </a>
 
 <!-- Databases --> 
@@ -124,11 +153,11 @@ Where to find me:
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank">
-    <code><img height="30" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
 </a>
 
 <a href="https://www.sqlite.org/" target="_blank">
-    <code><img height="30" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite"></code>
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank">
@@ -136,7 +165,7 @@ Where to find me:
 </a>
 
 <a href="https://redis.io/" target="_blank">
-    <code><img height="30" src="https://redis.io/favicons/apple-touch-icon.png" alt="Redis"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis"></code>
 </a>
 
 ---
