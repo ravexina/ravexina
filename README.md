@@ -3,9 +3,6 @@
 - 📛 My name is Milad.
 - 🌱 I’m a GNU/Linux guru and free software enthusiastic.
 - 🎓 I have studied software engineering and artificial intelligence.
-  - My fields of interest in AI are:
-    - 📊 Big Data
-    - 🧬 Evolutionary and swarm intelligence algorithms  
 - 📫 How to reach me: Same Ūsĕrņame at Ǧmāil.
 
 Where to find me:
@@ -13,24 +10,9 @@ Where to find me:
 - [AskUbuntu](https://askubuntu.com/users/264781/ravexina)
 - [Ubuntu Wiki](https://wiki.ubuntu.com/ravexina)
 - [StackExchange](https://stackexchange.com/users/4177764/ravexina)
+- Do you like music? check out my then: [last.fm](https://www.last.fm/user/Ravexina)
 - My Blog (Persian): [TuxGeek](https://tuxgeek.ir/)
 - My Website (Nothing interesting there yet): [ravexina.ir](https://ravexina.ir)
-
-## :zap: Github Stats
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ravexina&theme=tokyonight&show_icons=false&count_private=true&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravexina&theme=tokyonight&langs_count=10&layout=compact&exclude_repo=Python-notes,linux-notes,slides" />
-</div>
-
-
-## :trophy: Github Awards
-
-<p align="left"> 
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-	<img src="https://github-profile-trophy.vercel.app/?username=ravexina&theme=tokyonight&margin-w=15&row=2&column=4" alt="ravexina" />
-	</a> 
-</p>
 
 ---
 
@@ -123,7 +105,7 @@ Where to find me:
 </a>
 
 <a href="https://laravel.com/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" alt="Laravel"></code>
 </a>
 
 <a href="https://codeigniter.com/" target="_blank">
@@ -169,7 +151,3 @@ Where to find me:
 </a>
 
 ---
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravexina&label=Profile%20views&color=FF0040&style=flat" alt="ravexina" /> </p>
-
-🧠 Knowledge is Power
