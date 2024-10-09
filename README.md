@@ -7,10 +7,8 @@
 
 Where to find me:
 
-- [AskUbuntu](https://askubuntu.com/users/264781/ravexina)
-- [Ubuntu Wiki](https://wiki.ubuntu.com/ravexina)
-- [StackExchange](https://stackexchange.com/users/4177764/ravexina)
-- Do you like music? check out my [last.fm](https://www.last.fm/user/Ravexina) then.
+- [AskUbuntu](https://askubuntu.com/users/264781/ravexina) / [Ubuntu Wiki](https://wiki.ubuntu.com/ravexina) / [StackExchange](https://stackexchange.com/users/4177764/ravexina)
+- Do you like music? check out my [Last.fm](https://www.last.fm/user/Ravexina) then.
 - My Blog (Persian): [TuxGeek](https://tuxgeek.ir/)
 - My Website (Nothing interesting there yet): [ravexina.ir](https://ravexina.ir)
 
